@@ -25,7 +25,7 @@
 			</table>
 		</form>
 	</div>
-<!--CODINGAN DOLAR DAN RUPIAH-->
+<!--CODINGAN DOLAR DAN RUPIAH GES-->
 <?php
 	$rupiah = 14200;
 	$nilaidolar = $_GET['dolar'];
